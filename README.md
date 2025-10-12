@@ -343,3 +343,5 @@ If you use this codebase or otherwise find our work valuable, please cite:
       howpublished = {\url{https://github.com/deepseek-ai/DeepEP}},
 }
 ```
+
+<!-- Auto-update: 2025-10-12T13:54:47.682567 -->
