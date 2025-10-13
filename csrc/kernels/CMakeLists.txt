@@ -19,3 +19,5 @@ add_deep_ep_library(internode_ll_cuda internode_ll.cu)
 
 # Later, we should link all libraries in `EP_CUDA_LIBRARIES`
 set(EP_CUDA_LIBRARIES runtime_cuda layout_cuda intranode_cuda internode_cuda internode_ll_cuda PARENT_SCOPE)
+
+# Update: 2025-10-14
