@@ -75,3 +75,5 @@ export PATH="${NVSHMEM_DIR}/bin:$PATH"
 ```bash
 nvshmem-info -a # Should display details of nvshmem
 ```
+
+<!-- Auto-update: 2025-10-14T14:32:30.536428 -->
